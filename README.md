@@ -22,7 +22,7 @@
 - **💻 Developing amazing web apps for Impronta Advance**
 - **📚 Exploring new ways of use AI**
 - **💡 JavaScript, React, Typescript, Node.js and RESTful APIs**
-- **Photographer**
+- **📸 Photographer**
 
  **<h3 align="left">Skills</h3>**
 
